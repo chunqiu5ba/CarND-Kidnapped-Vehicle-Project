@@ -116,8 +116,8 @@ You can find the inputs to the particle filter in the `data` directory.
 
 **Using 100 Particles**
 
--Time step:2443
--System time: 48.86
+- Time step: 2443
+- System time: 48.86
 
 | Para | Error |
 |------|-------|
@@ -126,7 +126,7 @@ You can find the inputs to the particle filter in the `data` directory.
 | yaw  | 0.004 |
 
 
-![Result] [image1] 
+![Result][image1] 
 
 
 
