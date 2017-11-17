@@ -1,4 +1,8 @@
-#Kidnapped Vehicle Project
+# Kidnapped Vehicle Project
+
+[//] # (Image References)
+[image1]: ./final.png
+
 
 ## Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
@@ -121,7 +125,7 @@ You can find the inputs to the particle filter in the `data` directory.
 | yaw  | 0.004 |
 
 
-![Result] (final.png) 
+![Result] [image1] 
 
 
 
