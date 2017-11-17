@@ -1,6 +1,6 @@
 # Kidnapped Vehicle Project
 
-[//] # (Image References)
+[//]: # (Image References)
 
 [image1]: ./final.png
 
